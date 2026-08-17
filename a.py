@@ -12,5 +12,5 @@ while(i < len(string)): #string operation
         count = count + 1
     i = i + 1
 
-    #Display the result 
-    print("The total Number of times ", char, " has Occurred = " , count)
+#Display the result 
+print("The total Number of times ", char, " has Occurred = " , count)
